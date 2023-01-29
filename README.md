@@ -6,8 +6,8 @@
 =
 # 💻 Tela do projeto
 <p align="center">
-<img src="IMG/form.jpg" width="360px" height="360px"/> <br>
-<img src="IMG/formenviado.jpg" width="160px" height="240px"/>
+<img src="IMG/form.jpg" width="300px" height="410px"/> <br>
+<img src="IMG/formenviado.jpg" width="260px" height="200px"/>
 </p>
 
 # 🚀 Comandos de instalação
